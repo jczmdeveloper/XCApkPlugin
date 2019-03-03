@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XCApkPlugin.iml" filepath="$PROJECT_DIR$/XCApkPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pluginapk/pluginapk.iml" filepath="$PROJECT_DIR$/pluginapk/pluginapk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pluginlib/pluginlib.iml" filepath="$PROJECT_DIR$/pluginlib/pluginlib.iml" />
+    </modules>
+  </component>
+</project>
