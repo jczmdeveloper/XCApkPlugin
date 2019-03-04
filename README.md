@@ -44,6 +44,7 @@ XCApkPlugin - 动态加载Apk插件化技术框架库
 
 五.插件化的实现流程
 
+![iamge](https://raw.githubusercontent.com/jczmdeveloper/XCApkPlugin/master/screenshot/图片1.png)
 
 
 六.插件化的代码实现步骤
